@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\MediCare\\MyQuizApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CB09C900-8294-4B8F-A867-CCEB01AA5E45}|MyQuizApp\\MyQuizApp.csproj|e:\\medicare\\myquizapp\\myquizapp\\quiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB09C900-8294-4B8F-A867-CCEB01AA5E45}|MyQuizApp\\MyQuizApp.csproj|solutionrelative:myquizapp\\quiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB09C900-8294-4B8F-A867-CCEB01AA5E45}|MyQuizApp\\MyQuizApp.csproj|e:\\medicare\\myquizapp\\myquizapp\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB09C900-8294-4B8F-A867-CCEB01AA5E45}|MyQuizApp\\MyQuizApp.csproj|solutionrelative:myquizapp\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB09C900-8294-4B8F-A867-CCEB01AA5E45}|MyQuizApp\\MyQuizApp.csproj|e:\\medicare\\myquizapp\\myquizapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB09C900-8294-4B8F-A867-CCEB01AA5E45}|MyQuizApp\\MyQuizApp.csproj|solutionrelative:myquizapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Quiz.cs",
+              "DocumentMoniker": "E:\\MediCare\\MyQuizApp\\MyQuizApp\\Quiz.cs",
+              "RelativeDocumentMoniker": "MyQuizApp\\Quiz.cs",
+              "ToolTip": "E:\\MediCare\\MyQuizApp\\MyQuizApp\\Quiz.cs",
+              "RelativeToolTip": "MyQuizApp\\Quiz.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T08:13:00.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Question.cs",
+              "DocumentMoniker": "E:\\MediCare\\MyQuizApp\\MyQuizApp\\Question.cs",
+              "RelativeDocumentMoniker": "MyQuizApp\\Question.cs",
+              "ToolTip": "E:\\MediCare\\MyQuizApp\\MyQuizApp\\Question.cs",
+              "RelativeToolTip": "MyQuizApp\\Question.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA1wBMAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T08:12:46.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\MediCare\\MyQuizApp\\MyQuizApp\\Program.cs",
+              "RelativeDocumentMoniker": "MyQuizApp\\Program.cs",
+              "ToolTip": "E:\\MediCare\\MyQuizApp\\MyQuizApp\\Program.cs",
+              "RelativeToolTip": "MyQuizApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T08:12:14.126Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

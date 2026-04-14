@@ -1,0 +1,14 @@
+E:\MediCare\MyQuizApp\MyQuizApp\bin\Debug\net10.0\MyQuizApp.exe
+E:\MediCare\MyQuizApp\MyQuizApp\bin\Debug\net10.0\MyQuizApp.deps.json
+E:\MediCare\MyQuizApp\MyQuizApp\bin\Debug\net10.0\MyQuizApp.runtimeconfig.json
+E:\MediCare\MyQuizApp\MyQuizApp\bin\Debug\net10.0\MyQuizApp.dll
+E:\MediCare\MyQuizApp\MyQuizApp\bin\Debug\net10.0\MyQuizApp.pdb
+E:\MediCare\MyQuizApp\MyQuizApp\obj\Debug\net10.0\MyQuizApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\MediCare\MyQuizApp\MyQuizApp\obj\Debug\net10.0\MyQuizApp.AssemblyInfoInputs.cache
+E:\MediCare\MyQuizApp\MyQuizApp\obj\Debug\net10.0\MyQuizApp.AssemblyInfo.cs
+E:\MediCare\MyQuizApp\MyQuizApp\obj\Debug\net10.0\MyQuizApp.csproj.CoreCompileInputs.cache
+E:\MediCare\MyQuizApp\MyQuizApp\obj\Debug\net10.0\MyQuizApp.dll
+E:\MediCare\MyQuizApp\MyQuizApp\obj\Debug\net10.0\refint\MyQuizApp.dll
+E:\MediCare\MyQuizApp\MyQuizApp\obj\Debug\net10.0\MyQuizApp.pdb
+E:\MediCare\MyQuizApp\MyQuizApp\obj\Debug\net10.0\MyQuizApp.genruntimeconfig.cache
+E:\MediCare\MyQuizApp\MyQuizApp\obj\Debug\net10.0\ref\MyQuizApp.dll
