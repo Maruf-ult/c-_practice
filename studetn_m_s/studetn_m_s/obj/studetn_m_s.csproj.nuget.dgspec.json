@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\c#_practice\\miniProject\\miniProject\\miniProject.csproj": {}
+    "D:\\c#_practice\\studetn_m_s\\studetn_m_s\\studetn_m_s.csproj": {}
   },
   "projects": {
-    "D:\\c#_practice\\miniProject\\miniProject\\miniProject.csproj": {
+    "D:\\c#_practice\\studetn_m_s\\studetn_m_s\\studetn_m_s.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\c#_practice\\miniProject\\miniProject\\miniProject.csproj",
-        "projectName": "miniProject",
-        "projectPath": "D:\\c#_practice\\miniProject\\miniProject\\miniProject.csproj",
+        "projectUniqueName": "D:\\c#_practice\\studetn_m_s\\studetn_m_s\\studetn_m_s.csproj",
+        "projectName": "studetn_m_s",
+        "projectPath": "D:\\c#_practice\\studetn_m_s\\studetn_m_s\\studetn_m_s.csproj",
         "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "D:\\c#_practice\\miniProject\\miniProject\\obj\\",
+        "outputPath": "D:\\c#_practice\\studetn_m_s\\studetn_m_s\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
