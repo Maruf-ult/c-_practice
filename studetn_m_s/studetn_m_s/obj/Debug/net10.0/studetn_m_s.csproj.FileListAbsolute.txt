@@ -1,0 +1,15 @@
+D:\c#_practice\studetn_m_s\studetn_m_s\obj\Debug\net10.0\studetn_m_s.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#_practice\studetn_m_s\studetn_m_s\obj\Debug\net10.0\studetn_m_s.AssemblyInfoInputs.cache
+D:\c#_practice\studetn_m_s\studetn_m_s\obj\Debug\net10.0\studetn_m_s.AssemblyInfo.cs
+D:\c#_practice\studetn_m_s\studetn_m_s\obj\Debug\net10.0\studetn_m_s.csproj.CoreCompileInputs.cache
+D:\c#_practice\studetn_m_s\studetn_m_s\obj\Debug\net10.0\studetn_m_s.sourcelink.json
+D:\c#_practice\studetn_m_s\studetn_m_s\bin\Debug\net10.0\studetn_m_s.exe
+D:\c#_practice\studetn_m_s\studetn_m_s\bin\Debug\net10.0\studetn_m_s.deps.json
+D:\c#_practice\studetn_m_s\studetn_m_s\bin\Debug\net10.0\studetn_m_s.runtimeconfig.json
+D:\c#_practice\studetn_m_s\studetn_m_s\bin\Debug\net10.0\studetn_m_s.dll
+D:\c#_practice\studetn_m_s\studetn_m_s\bin\Debug\net10.0\studetn_m_s.pdb
+D:\c#_practice\studetn_m_s\studetn_m_s\obj\Debug\net10.0\studetn_m_s.dll
+D:\c#_practice\studetn_m_s\studetn_m_s\obj\Debug\net10.0\refint\studetn_m_s.dll
+D:\c#_practice\studetn_m_s\studetn_m_s\obj\Debug\net10.0\studetn_m_s.pdb
+D:\c#_practice\studetn_m_s\studetn_m_s\obj\Debug\net10.0\studetn_m_s.genruntimeconfig.cache
+D:\c#_practice\studetn_m_s\studetn_m_s\obj\Debug\net10.0\ref\studetn_m_s.dll

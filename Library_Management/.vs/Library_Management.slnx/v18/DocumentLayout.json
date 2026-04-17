@@ -1,0 +1,123 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\c#_practice\\Library_Management\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BF0289B1-4996-C679-C553-967DBC9BFB1E}|Library_Management\\Library_Management.csproj|d:\\c#_practice\\library_management\\library_management\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF0289B1-4996-C679-C553-967DBC9BFB1E}|Library_Management\\Library_Management.csproj|solutionrelative:library_management\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF0289B1-4996-C679-C553-967DBC9BFB1E}|Library_Management\\Library_Management.csproj|d:\\c#_practice\\library_management\\library_management\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF0289B1-4996-C679-C553-967DBC9BFB1E}|Library_Management\\Library_Management.csproj|solutionrelative:library_management\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF0289B1-4996-C679-C553-967DBC9BFB1E}|Library_Management\\Library_Management.csproj|d:\\c#_practice\\library_management\\library_management\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF0289B1-4996-C679-C553-967DBC9BFB1E}|Library_Management\\Library_Management.csproj|solutionrelative:library_management\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF0289B1-4996-C679-C553-967DBC9BFB1E}|Library_Management\\Library_Management.csproj|d:\\c#_practice\\library_management\\library_management\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF0289B1-4996-C679-C553-967DBC9BFB1E}|Library_Management\\Library_Management.csproj|solutionrelative:library_management\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF0289B1-4996-C679-C553-967DBC9BFB1E}|Library_Management\\Library_Management.csproj|d:\\c#_practice\\library_management\\library_management\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF0289B1-4996-C679-C553-967DBC9BFB1E}|Library_Management\\Library_Management.csproj|solutionrelative:library_management\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF0289B1-4996-C679-C553-967DBC9BFB1E}|Library_Management\\Library_Management.csproj|d:\\c#_practice\\library_management\\library_management\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF0289B1-4996-C679-C553-967DBC9BFB1E}|Library_Management\\Library_Management.csproj|solutionrelative:library_management\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Person.cs",
+              "DocumentMoniker": "D:\\c#_practice\\Library_Management\\Library_Management\\Person.cs",
+              "RelativeDocumentMoniker": "Library_Management\\Person.cs",
+              "ToolTip": "D:\\c#_practice\\Library_Management\\Library_Management\\Person.cs",
+              "RelativeToolTip": "Library_Management\\Person.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T06:56:33.909Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Library.cs",
+              "DocumentMoniker": "D:\\c#_practice\\Library_Management\\Library_Management\\Library.cs",
+              "RelativeDocumentMoniker": "Library_Management\\Library.cs",
+              "ToolTip": "D:\\c#_practice\\Library_Management\\Library_Management\\Library.cs",
+              "RelativeToolTip": "Library_Management\\Library.cs",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAowA4AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T07:22:47.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "D:\\c#_practice\\Library_Management\\Library_Management\\Teacher.cs",
+              "RelativeDocumentMoniker": "Library_Management\\Teacher.cs",
+              "ToolTip": "D:\\c#_practice\\Library_Management\\Library_Management\\Teacher.cs",
+              "RelativeToolTip": "Library_Management\\Teacher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T07:22:11.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\c#_practice\\Library_Management\\Library_Management\\Student.cs",
+              "RelativeDocumentMoniker": "Library_Management\\Student.cs",
+              "ToolTip": "D:\\c#_practice\\Library_Management\\Library_Management\\Student.cs",
+              "RelativeToolTip": "Library_Management\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T07:20:00.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Book.cs",
+              "DocumentMoniker": "D:\\c#_practice\\Library_Management\\Library_Management\\Book.cs",
+              "RelativeDocumentMoniker": "Library_Management\\Book.cs",
+              "ToolTip": "D:\\c#_practice\\Library_Management\\Library_Management\\Book.cs",
+              "RelativeToolTip": "Library_Management\\Book.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowB8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T06:59:51.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\c#_practice\\Library_Management\\Library_Management\\Program.cs",
+              "RelativeDocumentMoniker": "Library_Management\\Program.cs",
+              "ToolTip": "D:\\c#_practice\\Library_Management\\Library_Management\\Program.cs",
+              "RelativeToolTip": "Library_Management\\Program.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAiwEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T06:56:09.503Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+D:\c#_practice\Library_Management\Library_Management\bin\Debug\net10.0\Library_Management.exe
+D:\c#_practice\Library_Management\Library_Management\bin\Debug\net10.0\Library_Management.deps.json
+D:\c#_practice\Library_Management\Library_Management\bin\Debug\net10.0\Library_Management.runtimeconfig.json
+D:\c#_practice\Library_Management\Library_Management\bin\Debug\net10.0\Library_Management.dll
+D:\c#_practice\Library_Management\Library_Management\bin\Debug\net10.0\Library_Management.pdb
+D:\c#_practice\Library_Management\Library_Management\obj\Debug\net10.0\Library_Management.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#_practice\Library_Management\Library_Management\obj\Debug\net10.0\Library_Management.AssemblyInfoInputs.cache
+D:\c#_practice\Library_Management\Library_Management\obj\Debug\net10.0\Library_Management.AssemblyInfo.cs
+D:\c#_practice\Library_Management\Library_Management\obj\Debug\net10.0\Library_Management.csproj.CoreCompileInputs.cache
+D:\c#_practice\Library_Management\Library_Management\obj\Debug\net10.0\Library_Management.sourcelink.json
+D:\c#_practice\Library_Management\Library_Management\obj\Debug\net10.0\Library_Management.dll
+D:\c#_practice\Library_Management\Library_Management\obj\Debug\net10.0\refint\Library_Management.dll
+D:\c#_practice\Library_Management\Library_Management\obj\Debug\net10.0\Library_Management.pdb
+D:\c#_practice\Library_Management\Library_Management\obj\Debug\net10.0\Library_Management.genruntimeconfig.cache
+D:\c#_practice\Library_Management\Library_Management\obj\Debug\net10.0\ref\Library_Management.dll

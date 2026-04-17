@@ -9,9 +9,9 @@ namespace studetn_m_s
         public string SubjectName { get; set; }
         public double Mark { get; set; }
 
-        public SubjectMark(string subjectname, double mark)
+        public SubjectMark(string subjectName, double mark)
         {
-            SubjectName = subjectname;
+            SubjectName = subjectName;
             Mark = mark;
         }
 

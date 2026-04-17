@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "D:\\c#_practice\\studetn_m_s\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1321AE55-7FC4-4633-9226-20E176859581}|studetn_m_s\\studetn_m_s.csproj|d:\\c#_practice\\studetn_m_s\\studetn_m_s\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1321AE55-7FC4-4633-9226-20E176859581}|studetn_m_s\\studetn_m_s.csproj|solutionrelative:studetn_m_s\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{92FAFA8A-6AB8-7BA8-6A5C-B360FCB241E6}|studetn_m_s\\studetn_m_s.csproj|d:\\c#_practice\\studetn_m_s\\studetn_m_s\\gradecalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92FAFA8A-6AB8-7BA8-6A5C-B360FCB241E6}|studetn_m_s\\studetn_m_s.csproj|solutionrelative:studetn_m_s\\gradecalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1321AE55-7FC4-4633-9226-20E176859581}|studetn_m_s\\studetn_m_s.csproj|d:\\c#_practice\\studetn_m_s\\studetn_m_s\\subjectmark.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1321AE55-7FC4-4633-9226-20E176859581}|studetn_m_s\\studetn_m_s.csproj|solutionrelative:studetn_m_s\\subjectmark.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{92FAFA8A-6AB8-7BA8-6A5C-B360FCB241E6}|studetn_m_s\\studetn_m_s.csproj|d:\\c#_practice\\studetn_m_s\\studetn_m_s\\subjectmark.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92FAFA8A-6AB8-7BA8-6A5C-B360FCB241E6}|studetn_m_s\\studetn_m_s.csproj|solutionrelative:studetn_m_s\\subjectmark.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1321AE55-7FC4-4633-9226-20E176859581}|studetn_m_s\\studetn_m_s.csproj|d:\\c#_practice\\studetn_m_s\\studetn_m_s\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1321AE55-7FC4-4633-9226-20E176859581}|studetn_m_s\\studetn_m_s.csproj|solutionrelative:studetn_m_s\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{92FAFA8A-6AB8-7BA8-6A5C-B360FCB241E6}|studetn_m_s\\studetn_m_s.csproj|d:\\c#_practice\\studetn_m_s\\studetn_m_s\\studentmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92FAFA8A-6AB8-7BA8-6A5C-B360FCB241E6}|studetn_m_s\\studetn_m_s.csproj|solutionrelative:studetn_m_s\\studentmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92FAFA8A-6AB8-7BA8-6A5C-B360FCB241E6}|studetn_m_s\\studetn_m_s.csproj|d:\\c#_practice\\studetn_m_s\\studetn_m_s\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92FAFA8A-6AB8-7BA8-6A5C-B360FCB241E6}|studetn_m_s\\studetn_m_s.csproj|solutionrelative:studetn_m_s\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92FAFA8A-6AB8-7BA8-6A5C-B360FCB241E6}|studetn_m_s\\studetn_m_s.csproj|d:\\c#_practice\\studetn_m_s\\studetn_m_s\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92FAFA8A-6AB8-7BA8-6A5C-B360FCB241E6}|studetn_m_s\\studetn_m_s.csproj|solutionrelative:studetn_m_s\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,17 +30,43 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentManager.cs",
+              "DocumentMoniker": "D:\\c#_practice\\studetn_m_s\\studetn_m_s\\StudentManager.cs",
+              "RelativeDocumentMoniker": "studetn_m_s\\StudentManager.cs",
+              "ToolTip": "D:\\c#_practice\\studetn_m_s\\studetn_m_s\\StudentManager.cs",
+              "RelativeToolTip": "studetn_m_s\\StudentManager.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T18:13:49.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "GradeCalculator.cs",
+              "DocumentMoniker": "D:\\c#_practice\\studetn_m_s\\studetn_m_s\\GradeCalculator.cs",
+              "RelativeDocumentMoniker": "studetn_m_s\\GradeCalculator.cs",
+              "ToolTip": "D:\\c#_practice\\studetn_m_s\\studetn_m_s\\GradeCalculator.cs",
+              "RelativeToolTip": "studetn_m_s\\GradeCalculator.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T18:05:52.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Student.cs",
               "DocumentMoniker": "D:\\c#_practice\\studetn_m_s\\studetn_m_s\\Student.cs",
               "RelativeDocumentMoniker": "studetn_m_s\\Student.cs",
               "ToolTip": "D:\\c#_practice\\studetn_m_s\\studetn_m_s\\Student.cs",
               "RelativeToolTip": "studetn_m_s\\Student.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBAAAAAzAAAAAAAAAA==",
+              "ViewState": "AgIAAC4AAAAAAAAAAADwvwsAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-14T18:20:34.519Z",
               "EditorCaption": ""
@@ -45,23 +79,22 @@
               "RelativeDocumentMoniker": "studetn_m_s\\SubjectMark.cs",
               "ToolTip": "D:\\c#_practice\\studetn_m_s\\studetn_m_s\\SubjectMark.cs",
               "RelativeToolTip": "studetn_m_s\\SubjectMark.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAADwvw8AAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-14T18:17:35.53Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\c#_practice\\studetn_m_s\\studetn_m_s\\Program.cs",
               "RelativeDocumentMoniker": "studetn_m_s\\Program.cs",
               "ToolTip": "D:\\c#_practice\\studetn_m_s\\studetn_m_s\\Program.cs",
               "RelativeToolTip": "studetn_m_s\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwAQAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-14T18:04:48.512Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-14T18:04:48.512Z"
             }
           ]
         }
