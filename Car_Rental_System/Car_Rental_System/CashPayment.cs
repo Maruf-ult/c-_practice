@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Car_Rental_System
 {
-    internal class CashPayment
+    internal class CashPayment:IPayment
     {
         public string PaymentType => "Cash";
 
