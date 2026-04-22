@@ -1,0 +1,15 @@
+D:\c#_practice\Hospital_Management_System\Hospital_Management_System\obj\Debug\net10.0\Hospital_Management_System.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#_practice\Hospital_Management_System\Hospital_Management_System\obj\Debug\net10.0\Hospital_Management_System.AssemblyInfoInputs.cache
+D:\c#_practice\Hospital_Management_System\Hospital_Management_System\obj\Debug\net10.0\Hospital_Management_System.AssemblyInfo.cs
+D:\c#_practice\Hospital_Management_System\Hospital_Management_System\obj\Debug\net10.0\Hospital_Management_System.csproj.CoreCompileInputs.cache
+D:\c#_practice\Hospital_Management_System\Hospital_Management_System\obj\Debug\net10.0\Hospital_Management_System.sourcelink.json
+D:\c#_practice\Hospital_Management_System\Hospital_Management_System\bin\Debug\net10.0\Hospital_Management_System.exe
+D:\c#_practice\Hospital_Management_System\Hospital_Management_System\bin\Debug\net10.0\Hospital_Management_System.deps.json
+D:\c#_practice\Hospital_Management_System\Hospital_Management_System\bin\Debug\net10.0\Hospital_Management_System.runtimeconfig.json
+D:\c#_practice\Hospital_Management_System\Hospital_Management_System\bin\Debug\net10.0\Hospital_Management_System.dll
+D:\c#_practice\Hospital_Management_System\Hospital_Management_System\bin\Debug\net10.0\Hospital_Management_System.pdb
+D:\c#_practice\Hospital_Management_System\Hospital_Management_System\obj\Debug\net10.0\Hospital_Management_System.dll
+D:\c#_practice\Hospital_Management_System\Hospital_Management_System\obj\Debug\net10.0\refint\Hospital_Management_System.dll
+D:\c#_practice\Hospital_Management_System\Hospital_Management_System\obj\Debug\net10.0\Hospital_Management_System.pdb
+D:\c#_practice\Hospital_Management_System\Hospital_Management_System\obj\Debug\net10.0\Hospital_Management_System.genruntimeconfig.cache
+D:\c#_practice\Hospital_Management_System\Hospital_Management_System\obj\Debug\net10.0\ref\Hospital_Management_System.dll
