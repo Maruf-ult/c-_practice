@@ -25,7 +25,9 @@ namespace Hospital_Management_System.Models
 
         public void ShowBasicInfo()
         {
+
             Console.WriteLine($"Id: {Id} \n Name: {Name} \n  Age: {Age} Email: {Email} \n Phone: {Phone}");
+            
         }
     }
 }

@@ -11,53 +11,56 @@ namespace Hospital_Management_System.Models
         public Patient Patient { get; set; }
         public DateTime AppointmentDate { get; set; }
         public string Reason { get; set; }
-        public bool Status { get;private set; }
+        public bool IsBooked { get;private set; }
 
-        public Appointment(int appointmentid, Doctor doctor, Patient patient, DateTime appointmentdate, string reason)
+        public Appointment(int appointmentid,  Patient patient, Doctor doctor, DateTime appointmentdate, string reason)
         {
             AppointmentId = appointmentid;
             Doctor = doctor;
             Patient = patient;
             AppointmentDate = DateTime.Now;
             Reason = reason;
-            Status = false;
+            IsBooked = false;
 
         }
 
-        public void BookAppointment()
+        public bool BookAppointment()
         {
             
-            if(Status == true)
+            if(IsBooked)
             {
-                Console.WriteLine("Doctor already has an appointment");
-                return;
+                Console.WriteLine("This appointment is already booked");
+                return false;
             }
-            Status = true;
+            IsBooked = true;
+            Console.WriteLine("Appointment booked successfully");
+            return true;
         }
 
         public void CancelAppointment()
         {
-            if(Status == false)
+            if(!IsBooked)
             {
-                Console.WriteLine("Appointment is not taken yet");
+                Console.WriteLine("Appointment is not booked yet");
                 return;
             }
-            Status = false;
+            IsBooked = false;
+            Console.WriteLine("Appointment canceled successfully");
         }
 
         public void ShowAppointmentInfo()
         {
-            if (Status == false)
+            if (IsBooked == false)
             {
                 Console.WriteLine("Take appointment first");
                 return;
             }
             Console.WriteLine($"Appointment Id: {AppointmentId}");
-            Console.WriteLine($"Doctor : {Doctor}");
-            Console.WriteLine($"Patient: {Patient}");
+            Console.WriteLine($"Doctor : {Doctor.Name}");
+            Console.WriteLine($"Patient: {Patient.Name}");
             Console.WriteLine($"Appointment Date: {AppointmentDate}");
             Console.WriteLine($"Reason: {Reason}");
-            Console.WriteLine($"Status: {Status}");
+            Console.WriteLine($"Status: {(IsBooked?"Booked":"Canceled / Not booked")}");
 
         }
 

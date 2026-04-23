@@ -9,18 +9,24 @@ namespace Hospital_Management_System.Models
         public string Gender { get; set; }
         public string BloodGroup { get; set; }
         public string MedicalHistoryNote { get; set; }
+        public List<Appointment>PtAppointment { get; set; } 
 
         public Patient(int id,string name, int age, string email,string phone,string gender,string bloodGroup,string medicalhistorynote) : base(id, name, age, email, phone)
         {
             Gender = gender;
             BloodGroup = bloodGroup;
             MedicalHistoryNote = medicalhistorynote;
+            PtAppointment = new List<Appointment>();
         }
 
         public void ShowPatientInfo()
         {
             base.ShowBasicInfo();
             Console.WriteLine($"Gender: {Gender} \n BloodGroup: {BloodGroup} \n MedicalHistoryNote: {MedicalHistoryNote} ");
+            foreach (Appointment appointment in PtAppointment)
+            {
+                appointment.ShowAppointmentInfo();
+            }
         }
 
 

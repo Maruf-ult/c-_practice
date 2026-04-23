@@ -11,18 +11,35 @@ namespace Hospital_Management_System.Models
         public decimal DoctorFee { get; set; }
         public decimal MedicineCharge { get; set; }
         public decimal TestCharge { get; set; }
-        public decimal Amount { get; set; }
+        public decimal TotalAmount { get; private set; }
+
+        public Bill(int billId,Appointment appointment,decimal doctorFee,decimal medicineCharge,decimal testCharge)
+        {
+            BillId = billId;
+            Appointment = appointment;
+            DoctorFee = doctorFee;
+            MedicineCharge = medicineCharge;
+            TestCharge = testCharge;
+            TotalAmount = 0;
+        }
 
         public void CalculateTotal()
         {
-            decimal total = DoctorFee + MedicineCharge + TestCharge + Amount;
-            Console.WriteLine($"Total Charge: {total}");
+            TotalAmount = DoctorFee + MedicineCharge + TestCharge + TotalAmount;
+            
         }
 
         public void ShowBill()
         {
-            Console.WriteLine($"Bill Id: {BillId} \n Appointment: {Appointment} \n ");
-            CalculateTotal();
+            Console.WriteLine($"Bill Id: {BillId}");
+            Console.WriteLine($"Appointment Id: {Appointment.AppointmentId}");
+            Console.WriteLine($"Doctor: {Appointment.Doctor.Name}");
+            Console.WriteLine($"Patient: {Appointment.Patient.Name}");
+            Console.WriteLine($"Doctor Fee: {DoctorFee}");
+            Console.WriteLine($"Medicine Charge: {MedicineCharge}");
+            Console.WriteLine($"Test Charge: {TestCharge}");
+            Console.WriteLine($"Total Amount: {TotalAmount}");
+            Console.WriteLine("--------------------------------");
         }
 
     }
