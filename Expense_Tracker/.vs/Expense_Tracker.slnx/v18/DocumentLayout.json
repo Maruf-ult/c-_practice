@@ -1,0 +1,123 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\c#_practice\\Expense_Tracker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E20B0EE3-A8F0-48DE-B9D0-272DEA9D2C35}|Expense_Tracker\\Expense_Tracker.csproj|d:\\c#_practice\\expense_tracker\\expense_tracker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E20B0EE3-A8F0-48DE-B9D0-272DEA9D2C35}|Expense_Tracker\\Expense_Tracker.csproj|solutionrelative:expense_tracker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E20B0EE3-A8F0-48DE-B9D0-272DEA9D2C35}|Expense_Tracker\\Expense_Tracker.csproj|d:\\c#_practice\\expense_tracker\\expense_tracker\\expensemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E20B0EE3-A8F0-48DE-B9D0-272DEA9D2C35}|Expense_Tracker\\Expense_Tracker.csproj|solutionrelative:expense_tracker\\expensemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E20B0EE3-A8F0-48DE-B9D0-272DEA9D2C35}|Expense_Tracker\\Expense_Tracker.csproj|d:\\c#_practice\\expense_tracker\\expense_tracker\\paymentmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E20B0EE3-A8F0-48DE-B9D0-272DEA9D2C35}|Expense_Tracker\\Expense_Tracker.csproj|solutionrelative:expense_tracker\\paymentmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E20B0EE3-A8F0-48DE-B9D0-272DEA9D2C35}|Expense_Tracker\\Expense_Tracker.csproj|d:\\c#_practice\\expense_tracker\\expense_tracker\\expense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E20B0EE3-A8F0-48DE-B9D0-272DEA9D2C35}|Expense_Tracker\\Expense_Tracker.csproj|solutionrelative:expense_tracker\\expense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E20B0EE3-A8F0-48DE-B9D0-272DEA9D2C35}|Expense_Tracker\\Expense_Tracker.csproj|d:\\c#_practice\\expense_tracker\\expense_tracker\\expensecategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E20B0EE3-A8F0-48DE-B9D0-272DEA9D2C35}|Expense_Tracker\\Expense_Tracker.csproj|solutionrelative:expense_tracker\\expensecategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E20B0EE3-A8F0-48DE-B9D0-272DEA9D2C35}|Expense_Tracker\\Expense_Tracker.csproj|d:\\c#_practice\\expense_tracker\\expense_tracker\\daterange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E20B0EE3-A8F0-48DE-B9D0-272DEA9D2C35}|Expense_Tracker\\Expense_Tracker.csproj|solutionrelative:expense_tracker\\daterange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\c#_practice\\Expense_Tracker\\Expense_Tracker\\Program.cs",
+              "RelativeDocumentMoniker": "Expense_Tracker\\Program.cs",
+              "ToolTip": "D:\\c#_practice\\Expense_Tracker\\Expense_Tracker\\Program.cs",
+              "RelativeToolTip": "Expense_Tracker\\Program.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAowD4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T08:51:07.69Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DateRange.cs",
+              "DocumentMoniker": "D:\\c#_practice\\Expense_Tracker\\Expense_Tracker\\DateRange.cs",
+              "RelativeDocumentMoniker": "Expense_Tracker\\DateRange.cs",
+              "ToolTip": "D:\\c#_practice\\Expense_Tracker\\Expense_Tracker\\DateRange.cs",
+              "RelativeToolTip": "Expense_Tracker\\DateRange.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T09:35:48.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ExpenseManager.cs",
+              "DocumentMoniker": "D:\\c#_practice\\Expense_Tracker\\Expense_Tracker\\ExpenseManager.cs",
+              "RelativeDocumentMoniker": "Expense_Tracker\\ExpenseManager.cs",
+              "ToolTip": "D:\\c#_practice\\Expense_Tracker\\Expense_Tracker\\ExpenseManager.cs",
+              "RelativeToolTip": "Expense_Tracker\\ExpenseManager.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAADwv28AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T09:09:16.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PaymentMethod.cs",
+              "DocumentMoniker": "D:\\c#_practice\\Expense_Tracker\\Expense_Tracker\\PaymentMethod.cs",
+              "RelativeDocumentMoniker": "Expense_Tracker\\PaymentMethod.cs",
+              "ToolTip": "D:\\c#_practice\\Expense_Tracker\\Expense_Tracker\\PaymentMethod.cs",
+              "RelativeToolTip": "Expense_Tracker\\PaymentMethod.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T08:59:08.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ExpenseCategory.cs",
+              "DocumentMoniker": "D:\\c#_practice\\Expense_Tracker\\Expense_Tracker\\ExpenseCategory.cs",
+              "RelativeDocumentMoniker": "Expense_Tracker\\ExpenseCategory.cs",
+              "ToolTip": "D:\\c#_practice\\Expense_Tracker\\Expense_Tracker\\ExpenseCategory.cs",
+              "RelativeToolTip": "Expense_Tracker\\ExpenseCategory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T08:55:40.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Expense.cs",
+              "DocumentMoniker": "D:\\c#_practice\\Expense_Tracker\\Expense_Tracker\\Expense.cs",
+              "RelativeDocumentMoniker": "Expense_Tracker\\Expense.cs",
+              "ToolTip": "D:\\c#_practice\\Expense_Tracker\\Expense_Tracker\\Expense.cs",
+              "RelativeToolTip": "Expense_Tracker\\Expense.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAUwDEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T08:52:05.49Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

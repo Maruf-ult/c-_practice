@@ -1,0 +1,15 @@
+D:\c#_practice\struct & others\struct & others\bin\Debug\net10.0\struct & others.exe
+D:\c#_practice\struct & others\struct & others\bin\Debug\net10.0\struct & others.deps.json
+D:\c#_practice\struct & others\struct & others\bin\Debug\net10.0\struct & others.runtimeconfig.json
+D:\c#_practice\struct & others\struct & others\bin\Debug\net10.0\struct & others.dll
+D:\c#_practice\struct & others\struct & others\bin\Debug\net10.0\struct & others.pdb
+D:\c#_practice\struct & others\struct & others\obj\Debug\net10.0\struct & others.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#_practice\struct & others\struct & others\obj\Debug\net10.0\struct & others.AssemblyInfoInputs.cache
+D:\c#_practice\struct & others\struct & others\obj\Debug\net10.0\struct & others.AssemblyInfo.cs
+D:\c#_practice\struct & others\struct & others\obj\Debug\net10.0\struct & others.csproj.CoreCompileInputs.cache
+D:\c#_practice\struct & others\struct & others\obj\Debug\net10.0\struct & others.sourcelink.json
+D:\c#_practice\struct & others\struct & others\obj\Debug\net10.0\struct & others.dll
+D:\c#_practice\struct & others\struct & others\obj\Debug\net10.0\refint\struct & others.dll
+D:\c#_practice\struct & others\struct & others\obj\Debug\net10.0\struct & others.pdb
+D:\c#_practice\struct & others\struct & others\obj\Debug\net10.0\struct & others.genruntimeconfig.cache
+D:\c#_practice\struct & others\struct & others\obj\Debug\net10.0\ref\struct & others.dll
