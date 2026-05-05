@@ -1,0 +1,15 @@
+D:\c#_practice\Delegate\Delegate\bin\Debug\net10.0\Delegate.exe
+D:\c#_practice\Delegate\Delegate\bin\Debug\net10.0\Delegate.deps.json
+D:\c#_practice\Delegate\Delegate\bin\Debug\net10.0\Delegate.runtimeconfig.json
+D:\c#_practice\Delegate\Delegate\bin\Debug\net10.0\Delegate.dll
+D:\c#_practice\Delegate\Delegate\bin\Debug\net10.0\Delegate.pdb
+D:\c#_practice\Delegate\Delegate\obj\Debug\net10.0\Delegate.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#_practice\Delegate\Delegate\obj\Debug\net10.0\Delegate.AssemblyInfoInputs.cache
+D:\c#_practice\Delegate\Delegate\obj\Debug\net10.0\Delegate.AssemblyInfo.cs
+D:\c#_practice\Delegate\Delegate\obj\Debug\net10.0\Delegate.csproj.CoreCompileInputs.cache
+D:\c#_practice\Delegate\Delegate\obj\Debug\net10.0\Delegate.sourcelink.json
+D:\c#_practice\Delegate\Delegate\obj\Debug\net10.0\Delegate.dll
+D:\c#_practice\Delegate\Delegate\obj\Debug\net10.0\refint\Delegate.dll
+D:\c#_practice\Delegate\Delegate\obj\Debug\net10.0\Delegate.pdb
+D:\c#_practice\Delegate\Delegate\obj\Debug\net10.0\Delegate.genruntimeconfig.cache
+D:\c#_practice\Delegate\Delegate\obj\Debug\net10.0\ref\Delegate.dll
