@@ -1,0 +1,15 @@
+D:\c#_practice\ExtentionPractice\ExtentionPractice\bin\Debug\net10.0\ExtentionPractice.exe
+D:\c#_practice\ExtentionPractice\ExtentionPractice\bin\Debug\net10.0\ExtentionPractice.deps.json
+D:\c#_practice\ExtentionPractice\ExtentionPractice\bin\Debug\net10.0\ExtentionPractice.runtimeconfig.json
+D:\c#_practice\ExtentionPractice\ExtentionPractice\bin\Debug\net10.0\ExtentionPractice.dll
+D:\c#_practice\ExtentionPractice\ExtentionPractice\bin\Debug\net10.0\ExtentionPractice.pdb
+D:\c#_practice\ExtentionPractice\ExtentionPractice\obj\Debug\net10.0\ExtentionPractice.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#_practice\ExtentionPractice\ExtentionPractice\obj\Debug\net10.0\ExtentionPractice.AssemblyInfoInputs.cache
+D:\c#_practice\ExtentionPractice\ExtentionPractice\obj\Debug\net10.0\ExtentionPractice.AssemblyInfo.cs
+D:\c#_practice\ExtentionPractice\ExtentionPractice\obj\Debug\net10.0\ExtentionPractice.csproj.CoreCompileInputs.cache
+D:\c#_practice\ExtentionPractice\ExtentionPractice\obj\Debug\net10.0\ExtentionPractice.sourcelink.json
+D:\c#_practice\ExtentionPractice\ExtentionPractice\obj\Debug\net10.0\ExtentionPractice.dll
+D:\c#_practice\ExtentionPractice\ExtentionPractice\obj\Debug\net10.0\refint\ExtentionPractice.dll
+D:\c#_practice\ExtentionPractice\ExtentionPractice\obj\Debug\net10.0\ExtentionPractice.pdb
+D:\c#_practice\ExtentionPractice\ExtentionPractice\obj\Debug\net10.0\ExtentionPractice.genruntimeconfig.cache
+D:\c#_practice\ExtentionPractice\ExtentionPractice\obj\Debug\net10.0\ref\ExtentionPractice.dll

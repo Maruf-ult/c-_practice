@@ -1,0 +1,15 @@
+D:\c#_practice\ProductMangementSystem\ProductMangementSystem\bin\Debug\net10.0\ProductMangementSystem.exe
+D:\c#_practice\ProductMangementSystem\ProductMangementSystem\bin\Debug\net10.0\ProductMangementSystem.deps.json
+D:\c#_practice\ProductMangementSystem\ProductMangementSystem\bin\Debug\net10.0\ProductMangementSystem.runtimeconfig.json
+D:\c#_practice\ProductMangementSystem\ProductMangementSystem\bin\Debug\net10.0\ProductMangementSystem.dll
+D:\c#_practice\ProductMangementSystem\ProductMangementSystem\bin\Debug\net10.0\ProductMangementSystem.pdb
+D:\c#_practice\ProductMangementSystem\ProductMangementSystem\obj\Debug\net10.0\ProductMangementSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#_practice\ProductMangementSystem\ProductMangementSystem\obj\Debug\net10.0\ProductMangementSystem.AssemblyInfoInputs.cache
+D:\c#_practice\ProductMangementSystem\ProductMangementSystem\obj\Debug\net10.0\ProductMangementSystem.AssemblyInfo.cs
+D:\c#_practice\ProductMangementSystem\ProductMangementSystem\obj\Debug\net10.0\ProductMangementSystem.csproj.CoreCompileInputs.cache
+D:\c#_practice\ProductMangementSystem\ProductMangementSystem\obj\Debug\net10.0\ProductMangementSystem.sourcelink.json
+D:\c#_practice\ProductMangementSystem\ProductMangementSystem\obj\Debug\net10.0\ProductMangementSystem.dll
+D:\c#_practice\ProductMangementSystem\ProductMangementSystem\obj\Debug\net10.0\refint\ProductMangementSystem.dll
+D:\c#_practice\ProductMangementSystem\ProductMangementSystem\obj\Debug\net10.0\ProductMangementSystem.pdb
+D:\c#_practice\ProductMangementSystem\ProductMangementSystem\obj\Debug\net10.0\ProductMangementSystem.genruntimeconfig.cache
+D:\c#_practice\ProductMangementSystem\ProductMangementSystem\obj\Debug\net10.0\ref\ProductMangementSystem.dll

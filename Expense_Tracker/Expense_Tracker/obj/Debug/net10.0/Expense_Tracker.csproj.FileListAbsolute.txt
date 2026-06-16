@@ -1,0 +1,15 @@
+D:\c#_practice\Expense_Tracker\Expense_Tracker\obj\Debug\net10.0\Expense_Tracker.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#_practice\Expense_Tracker\Expense_Tracker\obj\Debug\net10.0\Expense_Tracker.AssemblyInfoInputs.cache
+D:\c#_practice\Expense_Tracker\Expense_Tracker\obj\Debug\net10.0\Expense_Tracker.AssemblyInfo.cs
+D:\c#_practice\Expense_Tracker\Expense_Tracker\obj\Debug\net10.0\Expense_Tracker.csproj.CoreCompileInputs.cache
+D:\c#_practice\Expense_Tracker\Expense_Tracker\obj\Debug\net10.0\Expense_Tracker.sourcelink.json
+D:\c#_practice\Expense_Tracker\Expense_Tracker\bin\Debug\net10.0\Expense_Tracker.exe
+D:\c#_practice\Expense_Tracker\Expense_Tracker\bin\Debug\net10.0\Expense_Tracker.deps.json
+D:\c#_practice\Expense_Tracker\Expense_Tracker\bin\Debug\net10.0\Expense_Tracker.runtimeconfig.json
+D:\c#_practice\Expense_Tracker\Expense_Tracker\bin\Debug\net10.0\Expense_Tracker.dll
+D:\c#_practice\Expense_Tracker\Expense_Tracker\bin\Debug\net10.0\Expense_Tracker.pdb
+D:\c#_practice\Expense_Tracker\Expense_Tracker\obj\Debug\net10.0\Expense_Tracker.dll
+D:\c#_practice\Expense_Tracker\Expense_Tracker\obj\Debug\net10.0\refint\Expense_Tracker.dll
+D:\c#_practice\Expense_Tracker\Expense_Tracker\obj\Debug\net10.0\Expense_Tracker.pdb
+D:\c#_practice\Expense_Tracker\Expense_Tracker\obj\Debug\net10.0\Expense_Tracker.genruntimeconfig.cache
+D:\c#_practice\Expense_Tracker\Expense_Tracker\obj\Debug\net10.0\ref\Expense_Tracker.dll

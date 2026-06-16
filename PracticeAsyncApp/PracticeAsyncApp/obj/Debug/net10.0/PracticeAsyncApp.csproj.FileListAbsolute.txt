@@ -1,0 +1,15 @@
+D:\c#_practice\PracticeAsyncApp\PracticeAsyncApp\bin\Debug\net10.0\PracticeAsyncApp.exe
+D:\c#_practice\PracticeAsyncApp\PracticeAsyncApp\bin\Debug\net10.0\PracticeAsyncApp.deps.json
+D:\c#_practice\PracticeAsyncApp\PracticeAsyncApp\bin\Debug\net10.0\PracticeAsyncApp.runtimeconfig.json
+D:\c#_practice\PracticeAsyncApp\PracticeAsyncApp\bin\Debug\net10.0\PracticeAsyncApp.dll
+D:\c#_practice\PracticeAsyncApp\PracticeAsyncApp\bin\Debug\net10.0\PracticeAsyncApp.pdb
+D:\c#_practice\PracticeAsyncApp\PracticeAsyncApp\obj\Debug\net10.0\PracticeAsyncApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#_practice\PracticeAsyncApp\PracticeAsyncApp\obj\Debug\net10.0\PracticeAsyncApp.AssemblyInfoInputs.cache
+D:\c#_practice\PracticeAsyncApp\PracticeAsyncApp\obj\Debug\net10.0\PracticeAsyncApp.AssemblyInfo.cs
+D:\c#_practice\PracticeAsyncApp\PracticeAsyncApp\obj\Debug\net10.0\PracticeAsyncApp.csproj.CoreCompileInputs.cache
+D:\c#_practice\PracticeAsyncApp\PracticeAsyncApp\obj\Debug\net10.0\PracticeAsyncApp.sourcelink.json
+D:\c#_practice\PracticeAsyncApp\PracticeAsyncApp\obj\Debug\net10.0\PracticeAsyncApp.dll
+D:\c#_practice\PracticeAsyncApp\PracticeAsyncApp\obj\Debug\net10.0\refint\PracticeAsyncApp.dll
+D:\c#_practice\PracticeAsyncApp\PracticeAsyncApp\obj\Debug\net10.0\PracticeAsyncApp.pdb
+D:\c#_practice\PracticeAsyncApp\PracticeAsyncApp\obj\Debug\net10.0\PracticeAsyncApp.genruntimeconfig.cache
+D:\c#_practice\PracticeAsyncApp\PracticeAsyncApp\obj\Debug\net10.0\ref\PracticeAsyncApp.dll

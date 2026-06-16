@@ -1,0 +1,15 @@
+D:\c#_practice\LoginEvent\LoginEvent\bin\Debug\net10.0\LoginEvent.exe
+D:\c#_practice\LoginEvent\LoginEvent\bin\Debug\net10.0\LoginEvent.deps.json
+D:\c#_practice\LoginEvent\LoginEvent\bin\Debug\net10.0\LoginEvent.runtimeconfig.json
+D:\c#_practice\LoginEvent\LoginEvent\bin\Debug\net10.0\LoginEvent.dll
+D:\c#_practice\LoginEvent\LoginEvent\bin\Debug\net10.0\LoginEvent.pdb
+D:\c#_practice\LoginEvent\LoginEvent\obj\Debug\net10.0\LoginEvent.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#_practice\LoginEvent\LoginEvent\obj\Debug\net10.0\LoginEvent.AssemblyInfoInputs.cache
+D:\c#_practice\LoginEvent\LoginEvent\obj\Debug\net10.0\LoginEvent.AssemblyInfo.cs
+D:\c#_practice\LoginEvent\LoginEvent\obj\Debug\net10.0\LoginEvent.csproj.CoreCompileInputs.cache
+D:\c#_practice\LoginEvent\LoginEvent\obj\Debug\net10.0\LoginEvent.sourcelink.json
+D:\c#_practice\LoginEvent\LoginEvent\obj\Debug\net10.0\LoginEvent.dll
+D:\c#_practice\LoginEvent\LoginEvent\obj\Debug\net10.0\refint\LoginEvent.dll
+D:\c#_practice\LoginEvent\LoginEvent\obj\Debug\net10.0\LoginEvent.pdb
+D:\c#_practice\LoginEvent\LoginEvent\obj\Debug\net10.0\LoginEvent.genruntimeconfig.cache
+D:\c#_practice\LoginEvent\LoginEvent\obj\Debug\net10.0\ref\LoginEvent.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "NullAblePracticeApp/1.0.0": {
+        "runtime": {
+          "NullAblePracticeApp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NullAblePracticeApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

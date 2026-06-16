@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\c#_practice\\Collections\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7BF1B5D5-7F11-4F19-A613-A3AE2E2208B3}|Collections\\Collections.csproj|d:\\c#_practice\\collections\\collections\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BF1B5D5-7F11-4F19-A613-A3AE2E2208B3}|Collections\\Collections.csproj|solutionrelative:collections\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BF1B5D5-7F11-4F19-A613-A3AE2E2208B3}|Collections\\Collections.csproj|d:\\c#_practice\\collections\\collections\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BF1B5D5-7F11-4F19-A613-A3AE2E2208B3}|Collections\\Collections.csproj|solutionrelative:collections\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\c#_practice\\Collections\\Collections\\Employee.cs",
+              "RelativeDocumentMoniker": "Collections\\Employee.cs",
+              "ToolTip": "D:\\c#_practice\\Collections\\Collections\\Employee.cs*",
+              "RelativeToolTip": "Collections\\Employee.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T13:23:34.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\c#_practice\\Collections\\Collections\\Program.cs",
+              "RelativeDocumentMoniker": "Collections\\Program.cs",
+              "ToolTip": "D:\\c#_practice\\Collections\\Collections\\Program.cs*",
+              "RelativeToolTip": "Collections\\Program.cs*",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T12:47:10.318Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

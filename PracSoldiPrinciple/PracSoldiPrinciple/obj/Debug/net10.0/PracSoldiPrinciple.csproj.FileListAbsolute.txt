@@ -1,0 +1,15 @@
+D:\c#_practice\PracSoldiPrinciple\PracSoldiPrinciple\bin\Debug\net10.0\PracSoldiPrinciple.exe
+D:\c#_practice\PracSoldiPrinciple\PracSoldiPrinciple\bin\Debug\net10.0\PracSoldiPrinciple.deps.json
+D:\c#_practice\PracSoldiPrinciple\PracSoldiPrinciple\bin\Debug\net10.0\PracSoldiPrinciple.runtimeconfig.json
+D:\c#_practice\PracSoldiPrinciple\PracSoldiPrinciple\bin\Debug\net10.0\PracSoldiPrinciple.dll
+D:\c#_practice\PracSoldiPrinciple\PracSoldiPrinciple\bin\Debug\net10.0\PracSoldiPrinciple.pdb
+D:\c#_practice\PracSoldiPrinciple\PracSoldiPrinciple\obj\Debug\net10.0\PracSoldiPrinciple.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#_practice\PracSoldiPrinciple\PracSoldiPrinciple\obj\Debug\net10.0\PracSoldiPrinciple.AssemblyInfoInputs.cache
+D:\c#_practice\PracSoldiPrinciple\PracSoldiPrinciple\obj\Debug\net10.0\PracSoldiPrinciple.AssemblyInfo.cs
+D:\c#_practice\PracSoldiPrinciple\PracSoldiPrinciple\obj\Debug\net10.0\PracSoldiPrinciple.csproj.CoreCompileInputs.cache
+D:\c#_practice\PracSoldiPrinciple\PracSoldiPrinciple\obj\Debug\net10.0\PracSoldiPrinciple.sourcelink.json
+D:\c#_practice\PracSoldiPrinciple\PracSoldiPrinciple\obj\Debug\net10.0\PracSoldiPrinciple.dll
+D:\c#_practice\PracSoldiPrinciple\PracSoldiPrinciple\obj\Debug\net10.0\refint\PracSoldiPrinciple.dll
+D:\c#_practice\PracSoldiPrinciple\PracSoldiPrinciple\obj\Debug\net10.0\PracSoldiPrinciple.pdb
+D:\c#_practice\PracSoldiPrinciple\PracSoldiPrinciple\obj\Debug\net10.0\PracSoldiPrinciple.genruntimeconfig.cache
+D:\c#_practice\PracSoldiPrinciple\PracSoldiPrinciple\obj\Debug\net10.0\ref\PracSoldiPrinciple.dll

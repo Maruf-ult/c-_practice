@@ -1,0 +1,14 @@
+E:\MediCare\forOOP\forOOP\bin\Debug\net10.0\forOOP.exe
+E:\MediCare\forOOP\forOOP\bin\Debug\net10.0\forOOP.deps.json
+E:\MediCare\forOOP\forOOP\bin\Debug\net10.0\forOOP.runtimeconfig.json
+E:\MediCare\forOOP\forOOP\bin\Debug\net10.0\forOOP.dll
+E:\MediCare\forOOP\forOOP\bin\Debug\net10.0\forOOP.pdb
+E:\MediCare\forOOP\forOOP\obj\Debug\net10.0\forOOP.GeneratedMSBuildEditorConfig.editorconfig
+E:\MediCare\forOOP\forOOP\obj\Debug\net10.0\forOOP.AssemblyInfoInputs.cache
+E:\MediCare\forOOP\forOOP\obj\Debug\net10.0\forOOP.AssemblyInfo.cs
+E:\MediCare\forOOP\forOOP\obj\Debug\net10.0\forOOP.csproj.CoreCompileInputs.cache
+E:\MediCare\forOOP\forOOP\obj\Debug\net10.0\forOOP.dll
+E:\MediCare\forOOP\forOOP\obj\Debug\net10.0\refint\forOOP.dll
+E:\MediCare\forOOP\forOOP\obj\Debug\net10.0\forOOP.pdb
+E:\MediCare\forOOP\forOOP\obj\Debug\net10.0\forOOP.genruntimeconfig.cache
+E:\MediCare\forOOP\forOOP\obj\Debug\net10.0\ref\forOOP.dll

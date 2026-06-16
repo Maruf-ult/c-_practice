@@ -1,0 +1,14 @@
+E:\MediCare\miniProject\miniProject\bin\Debug\net10.0\miniProject.exe
+E:\MediCare\miniProject\miniProject\bin\Debug\net10.0\miniProject.deps.json
+E:\MediCare\miniProject\miniProject\bin\Debug\net10.0\miniProject.runtimeconfig.json
+E:\MediCare\miniProject\miniProject\bin\Debug\net10.0\miniProject.dll
+E:\MediCare\miniProject\miniProject\bin\Debug\net10.0\miniProject.pdb
+E:\MediCare\miniProject\miniProject\obj\Debug\net10.0\miniProject.GeneratedMSBuildEditorConfig.editorconfig
+E:\MediCare\miniProject\miniProject\obj\Debug\net10.0\miniProject.AssemblyInfoInputs.cache
+E:\MediCare\miniProject\miniProject\obj\Debug\net10.0\miniProject.AssemblyInfo.cs
+E:\MediCare\miniProject\miniProject\obj\Debug\net10.0\miniProject.csproj.CoreCompileInputs.cache
+E:\MediCare\miniProject\miniProject\obj\Debug\net10.0\miniProject.dll
+E:\MediCare\miniProject\miniProject\obj\Debug\net10.0\refint\miniProject.dll
+E:\MediCare\miniProject\miniProject\obj\Debug\net10.0\miniProject.pdb
+E:\MediCare\miniProject\miniProject\obj\Debug\net10.0\miniProject.genruntimeconfig.cache
+E:\MediCare\miniProject\miniProject\obj\Debug\net10.0\ref\miniProject.dll

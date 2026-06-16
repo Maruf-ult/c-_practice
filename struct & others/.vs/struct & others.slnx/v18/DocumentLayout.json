@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\c#_practice\\struct \u0026 others\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{819E4904-953D-436E-8167-FC9A0D5A99E8}|struct \u0026 others\\struct \u0026 others.csproj|d:\\c#_practice\\struct \u0026 others\\struct \u0026 others\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{819E4904-953D-436E-8167-FC9A0D5A99E8}|struct \u0026 others\\struct \u0026 others.csproj|solutionrelative:struct \u0026 others\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\c#_practice\\struct \u0026 others\\struct \u0026 others\\Program.cs",
+              "RelativeDocumentMoniker": "struct \u0026 others\\Program.cs",
+              "ToolTip": "D:\\c#_practice\\struct \u0026 others\\struct \u0026 others\\Program.cs",
+              "RelativeToolTip": "struct \u0026 others\\Program.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAkwHkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T12:08:30.107Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

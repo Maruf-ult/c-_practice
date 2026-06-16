@@ -1,0 +1,15 @@
+D:\c#_practice\StockAlert\StockAlert\bin\Debug\net10.0\StockAlert.exe
+D:\c#_practice\StockAlert\StockAlert\bin\Debug\net10.0\StockAlert.deps.json
+D:\c#_practice\StockAlert\StockAlert\bin\Debug\net10.0\StockAlert.runtimeconfig.json
+D:\c#_practice\StockAlert\StockAlert\bin\Debug\net10.0\StockAlert.dll
+D:\c#_practice\StockAlert\StockAlert\bin\Debug\net10.0\StockAlert.pdb
+D:\c#_practice\StockAlert\StockAlert\obj\Debug\net10.0\StockAlert.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#_practice\StockAlert\StockAlert\obj\Debug\net10.0\StockAlert.AssemblyInfoInputs.cache
+D:\c#_practice\StockAlert\StockAlert\obj\Debug\net10.0\StockAlert.AssemblyInfo.cs
+D:\c#_practice\StockAlert\StockAlert\obj\Debug\net10.0\StockAlert.csproj.CoreCompileInputs.cache
+D:\c#_practice\StockAlert\StockAlert\obj\Debug\net10.0\StockAlert.sourcelink.json
+D:\c#_practice\StockAlert\StockAlert\obj\Debug\net10.0\StockAlert.dll
+D:\c#_practice\StockAlert\StockAlert\obj\Debug\net10.0\refint\StockAlert.dll
+D:\c#_practice\StockAlert\StockAlert\obj\Debug\net10.0\StockAlert.pdb
+D:\c#_practice\StockAlert\StockAlert\obj\Debug\net10.0\StockAlert.genruntimeconfig.cache
+D:\c#_practice\StockAlert\StockAlert\obj\Debug\net10.0\ref\StockAlert.dll

@@ -1,0 +1,15 @@
+D:\c#_practice\Events\Events\bin\Debug\net10.0\Events.exe
+D:\c#_practice\Events\Events\bin\Debug\net10.0\Events.deps.json
+D:\c#_practice\Events\Events\bin\Debug\net10.0\Events.runtimeconfig.json
+D:\c#_practice\Events\Events\bin\Debug\net10.0\Events.dll
+D:\c#_practice\Events\Events\bin\Debug\net10.0\Events.pdb
+D:\c#_practice\Events\Events\obj\Debug\net10.0\Events.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#_practice\Events\Events\obj\Debug\net10.0\Events.AssemblyInfoInputs.cache
+D:\c#_practice\Events\Events\obj\Debug\net10.0\Events.AssemblyInfo.cs
+D:\c#_practice\Events\Events\obj\Debug\net10.0\Events.csproj.CoreCompileInputs.cache
+D:\c#_practice\Events\Events\obj\Debug\net10.0\Events.sourcelink.json
+D:\c#_practice\Events\Events\obj\Debug\net10.0\Events.dll
+D:\c#_practice\Events\Events\obj\Debug\net10.0\refint\Events.dll
+D:\c#_practice\Events\Events\obj\Debug\net10.0\Events.pdb
+D:\c#_practice\Events\Events\obj\Debug\net10.0\Events.genruntimeconfig.cache
+D:\c#_practice\Events\Events\obj\Debug\net10.0\ref\Events.dll

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\c#_practice\\LoginEvent\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9C6DE86A-632F-48B6-9B3F-76EB5D1F558A}|LoginEvent\\LoginEvent.csproj|d:\\c#_practice\\loginevent\\loginevent\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C6DE86A-632F-48B6-9B3F-76EB5D1F558A}|LoginEvent\\LoginEvent.csproj|solutionrelative:loginevent\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\c#_practice\\LoginEvent\\LoginEvent\\Program.cs",
+              "RelativeDocumentMoniker": "LoginEvent\\Program.cs",
+              "ToolTip": "D:\\c#_practice\\LoginEvent\\LoginEvent\\Program.cs*",
+              "RelativeToolTip": "LoginEvent\\Program.cs*",
+              "ViewState": "AgIAACUAAAAAAAAAAAAwwDUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T13:32:28.6Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

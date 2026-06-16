@@ -1,0 +1,15 @@
+D:\c#_practice\ConsoleApp2\ConsoleApp2\bin\Debug\net10.0\Linq_prac.exe
+D:\c#_practice\ConsoleApp2\ConsoleApp2\bin\Debug\net10.0\Linq_prac.deps.json
+D:\c#_practice\ConsoleApp2\ConsoleApp2\bin\Debug\net10.0\Linq_prac.runtimeconfig.json
+D:\c#_practice\ConsoleApp2\ConsoleApp2\bin\Debug\net10.0\Linq_prac.dll
+D:\c#_practice\ConsoleApp2\ConsoleApp2\bin\Debug\net10.0\Linq_prac.pdb
+D:\c#_practice\ConsoleApp2\ConsoleApp2\obj\Debug\net10.0\Linq_prac.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#_practice\ConsoleApp2\ConsoleApp2\obj\Debug\net10.0\Linq_prac.AssemblyInfoInputs.cache
+D:\c#_practice\ConsoleApp2\ConsoleApp2\obj\Debug\net10.0\Linq_prac.AssemblyInfo.cs
+D:\c#_practice\ConsoleApp2\ConsoleApp2\obj\Debug\net10.0\Linq_prac.csproj.CoreCompileInputs.cache
+D:\c#_practice\ConsoleApp2\ConsoleApp2\obj\Debug\net10.0\Linq_prac.sourcelink.json
+D:\c#_practice\ConsoleApp2\ConsoleApp2\obj\Debug\net10.0\Linq_prac.dll
+D:\c#_practice\ConsoleApp2\ConsoleApp2\obj\Debug\net10.0\refint\Linq_prac.dll
+D:\c#_practice\ConsoleApp2\ConsoleApp2\obj\Debug\net10.0\Linq_prac.pdb
+D:\c#_practice\ConsoleApp2\ConsoleApp2\obj\Debug\net10.0\Linq_prac.genruntimeconfig.cache
+D:\c#_practice\ConsoleApp2\ConsoleApp2\obj\Debug\net10.0\ref\Linq_prac.dll

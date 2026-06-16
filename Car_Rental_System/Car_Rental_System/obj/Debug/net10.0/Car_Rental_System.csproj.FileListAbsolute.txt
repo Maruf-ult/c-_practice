@@ -1,0 +1,15 @@
+D:\c#_practice\Car_Rental_System\Car_Rental_System\obj\Debug\net10.0\Car_Rental_System.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#_practice\Car_Rental_System\Car_Rental_System\obj\Debug\net10.0\Car_Rental_System.AssemblyInfoInputs.cache
+D:\c#_practice\Car_Rental_System\Car_Rental_System\obj\Debug\net10.0\Car_Rental_System.AssemblyInfo.cs
+D:\c#_practice\Car_Rental_System\Car_Rental_System\obj\Debug\net10.0\Car_Rental_System.csproj.CoreCompileInputs.cache
+D:\c#_practice\Car_Rental_System\Car_Rental_System\obj\Debug\net10.0\Car_Rental_System.sourcelink.json
+D:\c#_practice\Car_Rental_System\Car_Rental_System\bin\Debug\net10.0\Car_Rental_System.exe
+D:\c#_practice\Car_Rental_System\Car_Rental_System\bin\Debug\net10.0\Car_Rental_System.deps.json
+D:\c#_practice\Car_Rental_System\Car_Rental_System\bin\Debug\net10.0\Car_Rental_System.runtimeconfig.json
+D:\c#_practice\Car_Rental_System\Car_Rental_System\bin\Debug\net10.0\Car_Rental_System.dll
+D:\c#_practice\Car_Rental_System\Car_Rental_System\bin\Debug\net10.0\Car_Rental_System.pdb
+D:\c#_practice\Car_Rental_System\Car_Rental_System\obj\Debug\net10.0\Car_Rental_System.dll
+D:\c#_practice\Car_Rental_System\Car_Rental_System\obj\Debug\net10.0\refint\Car_Rental_System.dll
+D:\c#_practice\Car_Rental_System\Car_Rental_System\obj\Debug\net10.0\Car_Rental_System.pdb
+D:\c#_practice\Car_Rental_System\Car_Rental_System\obj\Debug\net10.0\Car_Rental_System.genruntimeconfig.cache
+D:\c#_practice\Car_Rental_System\Car_Rental_System\obj\Debug\net10.0\ref\Car_Rental_System.dll

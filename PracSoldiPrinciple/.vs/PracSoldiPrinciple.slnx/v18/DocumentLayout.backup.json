@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\c#_practice\\PracSoldiPrinciple\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9C1A231C-3E22-4112-9211-5F3EB05CCC6A}|PracSoldiPrinciple\\PracSoldiPrinciple.csproj|d:\\c#_practice\\pracsoldiprinciple\\pracsoldiprinciple\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C1A231C-3E22-4112-9211-5F3EB05CCC6A}|PracSoldiPrinciple\\PracSoldiPrinciple.csproj|solutionrelative:pracsoldiprinciple\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C1A231C-3E22-4112-9211-5F3EB05CCC6A}|PracSoldiPrinciple\\PracSoldiPrinciple.csproj|d:\\c#_practice\\pracsoldiprinciple\\pracsoldiprinciple\\service\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C1A231C-3E22-4112-9211-5F3EB05CCC6A}|PracSoldiPrinciple\\PracSoldiPrinciple.csproj|solutionrelative:pracsoldiprinciple\\service\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C1A231C-3E22-4112-9211-5F3EB05CCC6A}|PracSoldiPrinciple\\PracSoldiPrinciple.csproj|d:\\c#_practice\\pracsoldiprinciple\\pracsoldiprinciple\\repository\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C1A231C-3E22-4112-9211-5F3EB05CCC6A}|PracSoldiPrinciple\\PracSoldiPrinciple.csproj|solutionrelative:pracsoldiprinciple\\repository\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C1A231C-3E22-4112-9211-5F3EB05CCC6A}|PracSoldiPrinciple\\PracSoldiPrinciple.csproj|d:\\c#_practice\\pracsoldiprinciple\\pracsoldiprinciple\\model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C1A231C-3E22-4112-9211-5F3EB05CCC6A}|PracSoldiPrinciple\\PracSoldiPrinciple.csproj|solutionrelative:pracsoldiprinciple\\model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C1A231C-3E22-4112-9211-5F3EB05CCC6A}|PracSoldiPrinciple\\PracSoldiPrinciple.csproj|d:\\c#_practice\\pracsoldiprinciple\\pracsoldiprinciple\\interface\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C1A231C-3E22-4112-9211-5F3EB05CCC6A}|PracSoldiPrinciple\\PracSoldiPrinciple.csproj|solutionrelative:pracsoldiprinciple\\interface\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C1A231C-3E22-4112-9211-5F3EB05CCC6A}|PracSoldiPrinciple\\PracSoldiPrinciple.csproj|d:\\c#_practice\\pracsoldiprinciple\\pracsoldiprinciple\\interface\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C1A231C-3E22-4112-9211-5F3EB05CCC6A}|PracSoldiPrinciple\\PracSoldiPrinciple.csproj|solutionrelative:pracsoldiprinciple\\interface\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C1A231C-3E22-4112-9211-5F3EB05CCC6A}|PracSoldiPrinciple\\PracSoldiPrinciple.csproj|d:\\c#_practice\\pracsoldiprinciple\\pracsoldiprinciple\\pracsoldiprinciple.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9C1A231C-3E22-4112-9211-5F3EB05CCC6A}|PracSoldiPrinciple\\PracSoldiPrinciple.csproj|solutionrelative:pracsoldiprinciple\\pracsoldiprinciple.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "D:\\c#_practice\\PracSoldiPrinciple\\PracSoldiPrinciple\\Service\\StudentService.cs",
+              "RelativeDocumentMoniker": "PracSoldiPrinciple\\Service\\StudentService.cs",
+              "ToolTip": "D:\\c#_practice\\PracSoldiPrinciple\\PracSoldiPrinciple\\Service\\StudentService.cs*",
+              "RelativeToolTip": "PracSoldiPrinciple\\Service\\StudentService.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T13:22:04.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentRepository.cs",
+              "DocumentMoniker": "D:\\c#_practice\\PracSoldiPrinciple\\PracSoldiPrinciple\\Repository\\StudentRepository.cs",
+              "RelativeDocumentMoniker": "PracSoldiPrinciple\\Repository\\StudentRepository.cs",
+              "ToolTip": "D:\\c#_practice\\PracSoldiPrinciple\\PracSoldiPrinciple\\Repository\\StudentRepository.cs*",
+              "RelativeToolTip": "PracSoldiPrinciple\\Repository\\StudentRepository.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T13:19:12.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IStudentService.cs",
+              "DocumentMoniker": "D:\\c#_practice\\PracSoldiPrinciple\\PracSoldiPrinciple\\Interface\\IStudentService.cs",
+              "RelativeDocumentMoniker": "PracSoldiPrinciple\\Interface\\IStudentService.cs",
+              "ToolTip": "D:\\c#_practice\\PracSoldiPrinciple\\PracSoldiPrinciple\\Interface\\IStudentService.cs*",
+              "RelativeToolTip": "PracSoldiPrinciple\\Interface\\IStudentService.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T13:17:08.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IStudentRepository.cs",
+              "DocumentMoniker": "D:\\c#_practice\\PracSoldiPrinciple\\PracSoldiPrinciple\\Interface\\IStudentRepository.cs",
+              "RelativeDocumentMoniker": "PracSoldiPrinciple\\Interface\\IStudentRepository.cs",
+              "ToolTip": "D:\\c#_practice\\PracSoldiPrinciple\\PracSoldiPrinciple\\Interface\\IStudentRepository.cs*",
+              "RelativeToolTip": "PracSoldiPrinciple\\Interface\\IStudentRepository.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T13:15:41.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PracSoldiPrinciple",
+              "DocumentMoniker": "D:\\c#_practice\\PracSoldiPrinciple\\PracSoldiPrinciple\\PracSoldiPrinciple.csproj",
+              "RelativeDocumentMoniker": "PracSoldiPrinciple\\PracSoldiPrinciple.csproj",
+              "ToolTip": "D:\\c#_practice\\PracSoldiPrinciple\\PracSoldiPrinciple\\PracSoldiPrinciple.csproj*",
+              "RelativeToolTip": "PracSoldiPrinciple\\PracSoldiPrinciple.csproj*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-18T13:14:13.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\c#_practice\\PracSoldiPrinciple\\PracSoldiPrinciple\\Model\\Student.cs",
+              "RelativeDocumentMoniker": "PracSoldiPrinciple\\Model\\Student.cs",
+              "ToolTip": "D:\\c#_practice\\PracSoldiPrinciple\\PracSoldiPrinciple\\Model\\Student.cs*",
+              "RelativeToolTip": "PracSoldiPrinciple\\Model\\Student.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T13:13:42.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\c#_practice\\PracSoldiPrinciple\\PracSoldiPrinciple\\Program.cs",
+              "RelativeDocumentMoniker": "PracSoldiPrinciple\\Program.cs",
+              "ToolTip": "D:\\c#_practice\\PracSoldiPrinciple\\PracSoldiPrinciple\\Program.cs*",
+              "RelativeToolTip": "PracSoldiPrinciple\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T13:13:10.134Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

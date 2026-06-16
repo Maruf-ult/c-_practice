@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Domain/HospitalManagement.Domain.csproj" Id="779fcdf9-f70b-45c9-8926-406b9487eabf" />
+  <Project Path="HospitalManagement.API/HospitalManagement.API.csproj" />
+  <Project Path="HospitalManagement.Application/HospitalManagement.Application.csproj" Id="66641083-3570-4e93-b8fe-47c8a3923faa" />
+  <Project Path="HospitalManagement.Infrastructure/HospitalManagement.Infrastructure.csproj" Id="5064384c-90ef-4307-8c95-e2fdff3752d8" />
+</Solution>
